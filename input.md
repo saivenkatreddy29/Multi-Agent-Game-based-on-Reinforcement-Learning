@@ -10,14 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-> *Team* *Number:* **18**
 
-||
-||
-||
-||
-||
-||
 
 *-*--------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +20,7 @@
 
 **INTRODUCTION:**
 
-<img src="./htapa524.png"
+<img src="Report_images_game.md/htapa524.png"
 style="width:3.91991in;height:2.98055in" />The environment is based on
 the Hunter Assassin game environment. The environment consists of
 Heroes, Enemies, Walls, and Health. In this environment the core concept
