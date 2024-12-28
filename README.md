@@ -130,7 +130,7 @@ potion, then it will gain +4 health points.
 > The goal of both agents is to kill the maximum number of enemies in
 > the minimum number of steps without losing health.
 
-<img src="./kbvjzarh.png"
+<img src="Report_images_game.md/kbvjzarh.png"
 style="width:3.02684in;height:2.32986in" /><img src="./oivamn0m.png"
 style="width:2.91944in;height:2.31111in" />**TRAINING** **PLOTS:**
 
@@ -156,35 +156,35 @@ The second graph is the epsilon decay curve for the training process of
 > We can clearly see that Heman which is having Actor Critic algorithm
 > is performing extremely good when
 >
-> <img src="./uy3zdcax.png"
+> <img src="Report_images_game.md/uy3zdcax.png"
 > style="width:3.84861in;height:5.01148in" />compared with the random
 > agent. By looking at this plot we can confirm that the A2C agent
 > (Heman) is trained properly.
 
-<img src="./vj5mcwr4.png"
+<img src="Report_images_game.md/vj5mcwr4.png"
 style="width:3.68228in;height:2.7625in" />
 
 **Testing** **DQN** **(Hero)** **by** **taking** **another** **agent**
 **as** **random:**
 
-> <img src="./bre114z3.png"
+> <img src="Report_images_game.md/bre114z3.png"
 > style="width:3.92986in;height:5.10681in" />We can clearly see that
 > Hero which is having DQN algorithm is performing extremely good when
 > compared with the random agent. By looking at this plot we can confirm
 > that the DQN agent (Hero) is trained properly.
 
-<img src="./31urkgsn.png"
+<img src="Report_images_game.md/31urkgsn.png"
 style="width:3.93681in;height:2.95345in" />
 
 **Testing** **Both** **DQN** **andActor** **CriticAgent:**
 
-> <img src="./rv0looay.png"
+> <img src="Report_images_game.md/rv0looay.png"
 > style="width:3.97917in;height:5.08383in" />We can see both the agents
 > are competitively getting the enemies and both of them are showing
 > good results by caching the enemies with less number of steps over the
 > time.
 
-<img src="./cuyv1fvh.png"
+<img src="Report_images_game.md/cuyv1fvh.png"
 style="width:3.92943in;height:2.94792in" />
 
 **RUNNING** **GUIDE:**
